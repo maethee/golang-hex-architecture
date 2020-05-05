@@ -1,4 +1,4 @@
-# golang with hex architech
+# golang with Hexagonal architecture
 
 This project go lang I try to make it flexible more more by Hexagonal architecture. It so useful when we used this. the domain logic can turn to Rest API, Command script or anything that we want to used this domain logic. Because domain logic have interface who want to integrate should be follow the interface for every layer.
 
